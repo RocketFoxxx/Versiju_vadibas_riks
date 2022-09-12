@@ -1,0 +1,1 @@
+print ("Labdien visiem no skolotājas!")
